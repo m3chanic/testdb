@@ -2,6 +2,7 @@
 name: 'Container Action Template'
 description: 'Get started with Container actions'
 author: 'GitHub'
+on: workflow_dispatch
 inputs: 
   placeHolder:
     description: 'Input to use'
